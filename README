@@ -1,10 +1,6 @@
 ByteSync! 
 
-  The idea here is to create a system similar to OneDrive or Dropbox which have the feature to share files across your machines, however,
-I wish to make this a more client sided operation. For instance, You have a Desktop and a Laptop, when you have finished writing your 
-Document on the Desktop you save it and close it. Then when you open up you laptop it is automatically downloaded to the laptop/ or updated.
-This is going to be written in Python with some possilbe server-side Javascript with SQL for users login's. 
-
+The idea here is to create a system similar to OneDrive or Dropbox which have the feature to share files across your machines, however,I wish to make this a more client sided operation. For instance, You have a Desktop and a Laptop, when you have finished writing your Document on the Desktop you save it and close it. Then when you open up you laptop it is automatically downloaded to the laptop/ or updated.This is going to be written in Python with some possilbe server-side Javascript with SQL for users login's. Furthermore, the system will work on Linux, Windows and Mac.
 V0.1 Release 
 -To have this system working, but the two machines must be on constantly in order to send these files between eachother. 
 
