@@ -7,6 +7,7 @@ V0.1 Release
 
 V0.2 Release
 -The option to use our Cloud Storage system, this would allow users to download files even if the one system is offline. 1GB(Per User) 
+-Create a GUI interface. 
 
 V1.0 Release
 - Implement a file compression system which is automated to shrink the storage space of files on the server. Hopefully upgrading to 2GB(Per User) 
